@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://interntrack-backend.onrender.com/api/:path*"
+      "destination": "https://interntrack-backend-v91u.onrender.com/api/:path*"
     },
     {
       "source": "/(.*)",
